@@ -18,7 +18,6 @@
 /*---------------------------------------------------------------
                Make it look Like Another Window
 ---------------------------------------------------------------*/
-@import url('https://zuzumi-f.github.io/Moon-Rabbits-Dream-About-Virtual/release/window-mode.css');
 
 /*---------------------------------------------------------------
                         Custom Settings
@@ -41,7 +40,7 @@
 ------------------------------------------------------*/
 :root {
     /* The text that appear in top, leave it blank ("") if you dont want any */
-    --custom-text: "TSUKINO MITO";
+    --custom-text: "";
 
     /* General Colors */
     --border-color: #da4a60;

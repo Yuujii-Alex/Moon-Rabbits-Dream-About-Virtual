@@ -75,7 +75,6 @@
     --streaming-color: #f066f0;
 
     /* Chatbar Colors */
-    --channeltextarea-background: #F0F2F2;
     --text-color: #313D40;
     --icon-color: var(--text-color);
     --selected-text-bg: var(--text-color);
